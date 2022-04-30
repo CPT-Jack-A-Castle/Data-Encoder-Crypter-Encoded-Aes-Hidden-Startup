@@ -11,7 +11,7 @@
 * Notification
 * Single Instance
 * Anti WM
-* Anti Submission
+* Anti Submission.
 * Execution Delay
 * Advanced Runtime
 * Exclusion Windows Defender
